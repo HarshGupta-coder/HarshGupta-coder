@@ -28,8 +28,13 @@ jobs:
 
       - name: Push to output branch
         run: |
+          git clone https://github.com/HarshGupta-coder/HarshGupta-coder-output.git
+          cd HarshGupta-coder-output
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
-          git push --force origin output
+          cp ../dist/snake.svg .
+          git add snake.svg
+          git commit -m "Update snake.svg"
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
