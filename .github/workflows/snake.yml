@@ -35,6 +35,7 @@ jobs:
           cp ../dist/snake.svg .
           git add snake.svg
           git commit -m "Update snake.svg"
+          git remote set-url origin https://github.com/HarshGupta-coder/HarshGupta-coder-output.git
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
