@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harsh Gupta and I'm a DevOps Engineer, from Delhi</h2>
+<h2 align="left">Hi 👋! My name is Harsh Gupta and I'm a DevOps Engineer</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/ICOgUNjpvO0PC/200w.gif?cid=6c09b95204jlqi93k8p0hpok2d5jmgnad20rlf7dr23b7fap&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
